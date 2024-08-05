@@ -7,8 +7,8 @@ We dive into optimizing delivery routes to save time, reduce costs, and enhance 
 #📚 Project Outline
 1.Installing Packages: Learn how to set up your environment with the necessary Python packages.
 2.Kepler.gl Integration:
-  >Points in Kepler.gl: Visualize delivery points on an interactive map.
-  >LineString in Kepler.gl: Display optimized routes and paths.
+  >Points in Kepler.gl, Visualize delivery points on an interactive map.
+  >LineString in Kepler.gl, Display optimized routes and paths.
 3.Implementing Route Optimization Algorithm: Step-by-step guidance on coding a route optimization algorithm in Python.
 4.Visualizing Delivery Routes: Use Kepler.gl to create dynamic visualizations of delivery routes.
 5.Fine-Tuning Parameters: Adjust parameters for the best route optimization results.
